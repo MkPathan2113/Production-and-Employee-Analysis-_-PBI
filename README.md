@@ -1,5 +1,7 @@
 # Manufacturing Efficiency Analysis - Power BI Dashboard
 
+![Image](https://github.com/user-attachments/assets/bea07c63-2102-4edc-8c0a-328b98fb617a)
+
 ## 📌 Project Overview
 This Power BI project analyzes manufacturing efficiency using two datasets:
 1. **Employee Details Dataset** – Contains employee demographics, department distribution, salary, performance ratings, and tenure.
